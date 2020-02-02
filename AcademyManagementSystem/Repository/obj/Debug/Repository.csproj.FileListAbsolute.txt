@@ -1,0 +1,69 @@
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\bin\Debug\Repository.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\bin\Debug\Repository.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\bin\Debug\Entity.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\bin\Debug\Interfaces.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\bin\Debug\Entity.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\bin\Debug\Interfaces.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\obj\Debug\Repository.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\obj\Debug\Repository.pdb
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Repository\bin\Debug\Repository.dll
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Repository\bin\Debug\Repository.pdb
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Repository\bin\Debug\Entity.dll
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Repository\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Repository\bin\Debug\Entity.pdb
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Repository\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Repository\obj\Debug\Repository.dll
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Repository\obj\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Repository\bin\Debug\Repository.dll
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Repository\bin\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Repository\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Repository\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Repository\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Repository\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Repository\obj\Debug\Repository.dll
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Repository\obj\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Repository\obj\Debug\Repository.dll
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Repository\obj\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Repository\bin\Debug\Repository.dll
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Repository\bin\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Repository\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Repository\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Repository\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Repository\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Repository\bin\Debug\Repository.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Repository\bin\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Repository\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Repository\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Repository\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Repository\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Repository\obj\Debug\Repository.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Repository\obj\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Repository\bin\Debug\Repository.dll
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Repository\bin\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Repository\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Repository\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Repository\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Repository\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Repository\obj\Debug\Repository.dll
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Repository\obj\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Repository\bin\Debug\Repository.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Repository\bin\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Repository\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Repository\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Repository\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Repository\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Repository\obj\Debug\Repository.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Repository\obj\Debug\Repository.pdb

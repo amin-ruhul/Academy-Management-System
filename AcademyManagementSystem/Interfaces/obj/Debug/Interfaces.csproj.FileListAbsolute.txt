@@ -1,0 +1,55 @@
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Interfaces\bin\Debug\Interfaces.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Interfaces\bin\Debug\Interfaces.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Interfaces\bin\Debug\Entity.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Interfaces\bin\Debug\Entity.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Interfaces\obj\Debug\Interfaces.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Interfaces\bin\Debug\Entity.dll
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Interfaces\bin\Debug\Entity.pdb
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Interfaces\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Interfaces\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Interfaces\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Interfaces\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Interfaces\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Interfaces\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Interfaces\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Interfaces\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Interfaces\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Interfaces\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Interfaces\obj\Debug\Interfaces.pdb

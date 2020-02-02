@@ -1,0 +1,158 @@
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\obj\Debug\App.HomePage.resources
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\obj\Debug\App.LoginForm.resources
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\obj\Debug\App.ManageEmpForm.resources
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\obj\Debug\App.Properties.Resources.resources
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\obj\Debug\App.csproj.GenerateResource.Cache
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\bin\Debug\App.exe
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\bin\Debug\App.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\bin\Debug\Entity.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\bin\Debug\Interfaces.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\bin\Debug\Repository.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\bin\Debug\Entity.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\bin\Debug\Interfaces.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\bin\Debug\Repository.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\obj\Debug\App.exe
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\App\obj\Debug\App.pdb
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\App\bin\Debug\App.exe
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\App\bin\Debug\App.pdb
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\App\bin\Debug\Entity.dll
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\App\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\App\bin\Debug\Repository.dll
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\App\bin\Debug\Entity.pdb
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\App\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\App\bin\Debug\Repository.pdb
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\App\obj\Debug\App.HomePage.resources
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\App\obj\Debug\App.LoginForm.resources
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\App\obj\Debug\App.ManageEmpForm.resources
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\App\obj\Debug\App.exe
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\App\obj\Debug\App.pdb
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\App\bin\Debug\App.exe
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\App\bin\Debug\App.pdb
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\App\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\App\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\App\bin\Debug\Repository.dll
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\App\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\App\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\App\bin\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\App\obj\Debug\App.LoginForm.resources
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\App\obj\Debug\App.exe
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\App\obj\Debug\App.pdb
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\App\obj\Debug\App.EmployeeForm.resources
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\App\obj\Debug\App.ManageEmployeeForm.resources
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\obj\Debug\App.ChangePassword.resources
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\obj\Debug\App.EmployeeForm.resources
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\obj\Debug\App.ForgetPasswordForm.resources
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\obj\Debug\App.LoginForm.resources
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\obj\Debug\App.ManageCourseForm.resources
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\obj\Debug\App.ManageEmployeeForm.resources
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\obj\Debug\App.WellcomeForm.resources
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\obj\Debug\App.exe
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\obj\Debug\App.pdb
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\bin\Debug\App.exe
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\bin\Debug\App.pdb
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\bin\Debug\Repository.dll
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\bin\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\obj\Debug\App.ManageStudentForm.resources
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\obj\Debug\App.ManagePaymentForm.resources
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\obj\Debug\App.AddDropForm.resources
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\bin\Debug\IronPdf.dll
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\App\bin\Debug\IronPdf.xml
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\bin\Debug\App.exe
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\bin\Debug\App.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\bin\Debug\IronPdf.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\bin\Debug\Repository.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\bin\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\bin\Debug\IronPdf.xml
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\obj\Debug\App.AddDropForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\obj\Debug\App.ChangePassword.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\obj\Debug\App.EmployeeForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\obj\Debug\App.ForgetPasswordForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\obj\Debug\App.LoginForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\obj\Debug\App.ManageCourseForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\obj\Debug\App.ManageEmployeeForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\obj\Debug\App.ManagePaymentForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\obj\Debug\App.ManageStudentForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\obj\Debug\App.WellcomeForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\obj\Debug\App.exe
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\obj\Debug\App.pdb
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\bin\Debug\App.exe
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\bin\Debug\App.pdb
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\bin\Debug\IronPdf.dll
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\bin\Debug\Repository.dll
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\bin\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\bin\Debug\IronPdf.xml
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\obj\Debug\App.AddDropForm.resources
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\obj\Debug\App.ChangePassword.resources
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\obj\Debug\App.EmployeeForm.resources
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\obj\Debug\App.ForgetPasswordForm.resources
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\obj\Debug\App.LoginForm.resources
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\obj\Debug\App.ManageCourseForm.resources
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\obj\Debug\App.ManageEmployeeForm.resources
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\obj\Debug\App.ManagePaymentForm.resources
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\obj\Debug\App.ManageStudentForm.resources
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\obj\Debug\App.WellcomeForm.resources
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\obj\Debug\App.exe
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\App\obj\Debug\App.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\bin\Debug\itextsharp.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\App\bin\Debug\itextsharp.xml
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\bin\Debug\App.exe
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\bin\Debug\App.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\bin\Debug\IronPdf.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\bin\Debug\itextsharp.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\bin\Debug\Repository.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\bin\Debug\Repository.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\bin\Debug\IronPdf.xml
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\bin\Debug\itextsharp.xml
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\obj\Debug\App.AddDropForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\obj\Debug\App.ChangePassword.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\obj\Debug\App.EmployeeForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\obj\Debug\App.ForgetPasswordForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\obj\Debug\App.LoginForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\obj\Debug\App.ManageCourseForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\obj\Debug\App.ManageEmployeeForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\obj\Debug\App.ManagePaymentForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\obj\Debug\App.ManageStudentForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\obj\Debug\App.WellcomeForm.resources
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\obj\Debug\App.exe
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\App\obj\Debug\App.pdb

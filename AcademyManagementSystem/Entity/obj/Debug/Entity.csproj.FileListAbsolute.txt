@@ -1,0 +1,33 @@
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Entity\bin\Debug\Entity.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Entity\bin\Debug\Entity.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Entity\obj\Debug\Entity.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Entity\obj\Debug\Entity.pdb
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Entity\bin\Debug\Entity.dll
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Entity\bin\Debug\Entity.pdb
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Entity\obj\Debug\Entity.dll
+C:\Users\ASUS\Documents\I_SampleManagementSystem\SampleManagementSystem\Entity\obj\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Entity\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Entity\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Entity\obj\Debug\Entity.dll
+C:\Users\ASUS\Desktop\aSS\SampleManagementSystem\Entity\obj\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Entity\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Entity\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Entity\obj\Debug\Entity.dll
+C:\Users\ASUS\Desktop\aSS\AcademyManagementSystem\Entity\obj\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Entity\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Entity\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Entity\obj\Debug\Entity.dll
+C:\Users\ASUS\Desktop\ALL\AcademyManagementSystem\Entity\obj\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Entity\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Entity\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Entity\obj\Debug\Entity.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\Entity\obj\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Entity\bin\Debug\Entity.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Entity\bin\Debug\Entity.pdb
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Entity\obj\Debug\Entity.dll
+C:\Users\ASUS\Desktop\AcademyManagementSystem\AcademyManagementSystem\Entity\obj\Debug\Entity.pdb
